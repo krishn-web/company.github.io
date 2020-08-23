@@ -59,7 +59,7 @@ a:hover
 }
 #banner
 {
-	background: url("H:/bootstrap/images/banner.jpg") no-repeat 0 0;
+	background: url("img/banner.jpg") no-repeat 0 0;
 	background-size: cover;
 }
 .banner-title h1
